@@ -1,7 +1,7 @@
 # K Nearest Neighbors (KNN) algorithm
 
 <p align="center">
-    <img src="./images/knn.png" width="1000" height="320">
+    <img src="./images/knn.png" width="1000" height="400">
 </p>
 
 In this Machine Learning world, there are various algorithms designed for classification problems such as Logistic Regression, Decision Tree, Random Forest, Gradient Boosting over Decision Trees, etc. and KNN is not exceptional. When approaching to a classification problem, off the top of my head I will come up with the algorithm (KNN) first because it may be the most basic and simple algorithm to implement. In this project, I'm going to build a KNN model to do tasks on classifying flower types in the dataset Iris.
