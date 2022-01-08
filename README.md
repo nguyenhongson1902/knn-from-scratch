@@ -26,10 +26,15 @@ MacOS Monterey 12.1, Anaconda Virtual Environment, Python 3.9.7 64-bit
 1. Load the data
 2. Initialise the value of K
 3. For getting the predicted class, iterate from 1 to the total number of training data points
+
     3.1 Calculate the distance between a test sample and each row of training data. Here we will use L2 norm (Euclidean distance) as our distance metric since it’s the most popular method
+    
     3.2 Sort the calculated distances in ascending order based on distance values
+ 
     3.3 Get top K nearest neighbors from the sorted array
+   
     3.4 Get a class with the maximum number of votes
+    
     3.5 Return the predicted class
 
 ## How to run this program
