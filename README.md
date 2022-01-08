@@ -4,7 +4,7 @@ In this Machine Learning world, there are various algorithms designed for classi
 ## About data
 
 <p align="center">
-    <img src="./images/iris_sepal_petal.png" width="500" height="280">
+    <img src="./images/iris_sepal_petal.png" width="500" height="320">
 </p>
 
 The dataset I'm going to use is a flower dataset called [Iris](https://archive.ics.uci.edu/ml/datasets/iris). This is a bit of information about this dataset that you should care about:
