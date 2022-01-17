@@ -29,7 +29,7 @@ MacOS Monterey 12.1, Anaconda Virtual Environment, Python 3.9.7 64-bit
 
 ## KNN procedures
 1. Load the data
-2. Initialise the value of K
+2. Initialize the value of K
 3. For getting the predicted class, iterate from 1 to the total number of training data points
 
     3.1 Calculate the distance between a test sample and each row of training data. Here we will use L2 norm (Euclidean distance) as our distance metric since it’s the most popular method
